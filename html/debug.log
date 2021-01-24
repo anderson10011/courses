@@ -1,0 +1,4 @@
+[0120/130554.896:ERROR:file_io_win.cc(180)] CreateFile C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0120/130554.897:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0120/130554.899:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0120/130554.899:ERROR:file_io_win.cc(180)] CreateFile C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
