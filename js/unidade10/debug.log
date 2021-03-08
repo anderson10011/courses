@@ -1,0 +1,8 @@
+[0214/194653.465:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0214/194653.466:ERROR:file_io_win.cc(180)] CreateFile C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0214/204448.275:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0214/204448.276:ERROR:file_io_win.cc(180)] CreateFile C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0227/210459.065:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0227/210459.066:ERROR:file_io_win.cc(180)] CreateFile C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0228/165359.148:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0228/165359.162:ERROR:file_io_win.cc(180)] CreateFile C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
